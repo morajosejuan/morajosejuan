@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP,...
 - 🌱 I’m currently learning Java, Vue...
 - 💞️ I'm looking to collaborate on projects
-- 📫 How to reach me <a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/morajosejuan?trk=profile-badge" target="_blank">Para saber más de mi puedes ver mi perfil en Linkedin José J. Mora H.</a></div>
+- 📫 How to reach me, to know more about me you can see my profile on Linkedin <a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/morajosejuan?trk=profile-badge" target="_blank"> José J. Mora H.</a></div>
 
 <!---
 morajosejuan/morajosejuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
