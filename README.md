@@ -11,5 +11,10 @@ You can click the Preview link to take a look at your changes.
 ## Stats
 <img src = "https://github-readme-stats.vercel.app/api?username=morajosejuan&show_icons=true&theme=dark" width = 500 style="display: flex">
 
+## Followers 
+![GitHub followers](https://img.shields.io/github/followers/morajosejuan)
+
+
+
 
               
