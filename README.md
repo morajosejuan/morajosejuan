@@ -14,6 +14,10 @@ You can click the Preview link to take a look at your changes.
 ## Followers 
 ![GitHub followers](https://img.shields.io/github/followers/morajosejuan)
 
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morajosejuan&hide_progress=true)
+
 
 
 
